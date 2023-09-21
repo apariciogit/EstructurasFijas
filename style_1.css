@@ -1,0 +1,15 @@
+body {
+    margin:0;
+}
+.header_html1 {
+    background-color: blue;
+    margin: 10px;
+    color: white;
+    font-size: 14px;
+}
+.nav_html1 {
+    display: flex;
+}
+.h1_html1 {
+    position: relative;
+}
